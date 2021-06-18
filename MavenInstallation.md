@@ -22,6 +22,7 @@
      
      mvn package # To create jar/war file in target folder.
      
+     java -cp /target/myproj-1.0-SNAPSHOT.jar com.raman.App # To run the jar file
      
      
      
